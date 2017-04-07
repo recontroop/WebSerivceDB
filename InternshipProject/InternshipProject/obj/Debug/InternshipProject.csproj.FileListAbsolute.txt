@@ -1,0 +1,13 @@
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\bin\Debug\InternshipProject.exe
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\bin\Debug\InternshipProject.pdb
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\obj\Debug\InternshipProject.csprojResolveAssemblyReference.cache
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\obj\Debug\InternshipProject.Form1.resources
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\obj\Debug\InternshipProject.Properties.Resources.resources
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\obj\Debug\InternshipProject.csproj.GenerateResource.Cache
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\obj\Debug\InternshipProject.exe
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\obj\Debug\InternshipProject.pdb
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\bin\Debug\InternshipProject.exe.config
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\bin\Debug\InternshipProject.exe.manifest
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\bin\Debug\InternshipProject.application
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\obj\Debug\InternshipProject.exe.manifest
+C:\Users\rusbe\Documents\Visual Studio 2017\Projects\InternshipProject\InternshipProject\obj\Debug\InternshipProject.application
